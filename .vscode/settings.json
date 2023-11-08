@@ -1,0 +1,9 @@
+{
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-11",
+    "java.jdt.ls.androidSupport.enabled": "auto",
+    "java.import.gradle.home": "C:\\gradle-8.0.1-bin\\gradle-8.0.1",
+    "java.import.gradle.java.home": "C:\\Program Files\\Java\\jdk-11",
+    "java.import.gradle.user.home": "C:\\gradle-8.0.1-bin\\gradle-8.0.1",
+    "java.import.gradle.version": "C:\\gradle-8.0.1-bin\\gradle-8.0.1",
+    "java.import.gradle.offline.enabled": false
+}

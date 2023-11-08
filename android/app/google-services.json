@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673774264433",
+    "project_id": "padsforher-d13a6",
+    "storage_bucket": "padsforher-d13a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673774264433:android:a23b07b6650a3646343bd0",
+        "android_client_info": {
+          "package_name": "com.padsforher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Wr2YRxEhahWE7nf-2S3L1zMbpHdPzZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
